@@ -67,3 +67,13 @@
 - Netflix-GPT Page
     - Search bar
     - Movie suggestion
+ 
+    ![Screenshot (275)](https://github.com/user-attachments/assets/55678548-7add-49da-900a-cd7f1cc9641e)
+    ![Screenshot (274)](https://github.com/user-attachments/assets/d0d8e98d-dfee-4931-84f5-a40dc6a0f515)
+    ![Screenshot (273)](https://github.com/user-attachments/assets/b91cca91-07a4-4926-95a9-fe92d079abc3)
+   ![Screenshot (272)](https://github.com/user-attachments/assets/ed21d138-bb7a-434e-8d02-8bc9bf829676)
+   ![Screenshot (271)](https://github.com/user-attachments/assets/0a31d19d-84ff-49ff-84e6-7a7322f39d5e)
+ - ![Screenshot (270)](https://github.com/user-attachments/assets/16f28c67-4543-48ed-9530-d2223178b258)
+
+
+
